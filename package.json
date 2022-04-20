@@ -1,0 +1,14 @@
+{
+  "name": "day-3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Priscilla Abbam",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongoose": "^6.3.0"
+  }
+}
